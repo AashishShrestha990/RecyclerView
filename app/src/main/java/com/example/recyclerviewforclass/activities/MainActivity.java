@@ -38,5 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Display all the contacts in linear layour (vertically)
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
+
+
     }
 }
